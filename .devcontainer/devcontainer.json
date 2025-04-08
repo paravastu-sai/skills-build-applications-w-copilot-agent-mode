@@ -9,10 +9,11 @@
     "customizations": {
         "vscode": {
         "extensions": [
-            "github.copilot@insiders", // GitHub Copilot + Copilot Chat insiders
+            "github.copilot@insiders",
             "markdown-lint.markdownlinter",
-            "ms-python.python", // Python extension
-            "ms-python.vscode-pylance" // Pylance extension for Python
+            "ms-python.python",
+            "ms-python.vscode-pylance",
+            "GitHub.copilot-chat"
         ]}
     },
     "forwardPorts": [
